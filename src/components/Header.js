@@ -2,11 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Header = () => (
-  <nav>
-    <Link to="/"></Link>
-    <Link to="/"></Link>
-    <Link to="/"></Link>
-  </nav>
+  <h1>Last Airbender</h1>
 );
 
 export default Header;
